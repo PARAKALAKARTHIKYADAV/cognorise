@@ -66,5 +66,3 @@ Adding more features such as different difficulty levels
 For any questions or feedback, feel free to contact me:
 
 Email: karthikyadavkarthik181@gmail.com
-
-GitHub: 
